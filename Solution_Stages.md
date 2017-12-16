@@ -13,9 +13,7 @@
 
 * Solicitation and Acquisition
 ## Implementation
-
-* Organization Preparation
-* Process Installation
+* Organization Installation
 * Build and Deliver
 ## Close
 
