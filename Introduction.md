@@ -21,7 +21,7 @@ The philosophy is focused on four critical areas that give the project operation
 * Results:	Consistently deliver value to executives, staff, and stakeholders over time.
 * Resource Management:	Manage agency resources to complete our initiatives with the highest efficiency and effectiveness.
 
-This philosophy coalesces with the project principles described later in this package. 
+This philosophy coalesces with the project principles described below. 
 
 ## Principles
 Thre are six principles for projects to guide you and your team’s behavior:
