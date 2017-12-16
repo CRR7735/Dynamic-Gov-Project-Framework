@@ -1,9 +1,11 @@
 # Solution Delivery Phases and Stages
-## Pre-Project
+## Inception
+* Problem Definition
 * Program Valuation and Commitment
 
 ## Startup
 * Startup and Discovery
+* Project Foundation
 
 ## Elaboration
 * Planning and Analysis
@@ -11,10 +13,13 @@
 
 ## Acquisition
 * Solicitation and Acquisition
+* Installation
 
 ## Implementation
-* Organization Installation
 * Build and Deliver
+* Support Installation
+* Organization Transition
+* Product Installation
 
-## Close
-* Review and Sustain
+## Sustain
+* Close and Sustain
