@@ -13,7 +13,7 @@
 
 ## Acquisition
 * Solicitation and Acquisition
-* Product Installation
+* Service Installation
 
 ## Implementation
 * Build and Deliver
