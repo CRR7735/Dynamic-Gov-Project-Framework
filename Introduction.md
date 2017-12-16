@@ -16,10 +16,10 @@ To develop and realize a consistent philosophy for completing work, the followin
 * Effectively run projects within their division with a definite framework.
 
 The philosophy is focused on four critical areas that give the project operational value:
-* Executing Strategy: Executing Strategy: Focus on the most important initiatives because resources are limited and its good stewardship.
-* Accountability:	Do what we said we would do, when we said we would do it to meet customer requirements.
-* Results:	Consistently deliver value to executives, staff, and stakeholders over time.
-* Resource Management:	Manage agency resources to complete our initiatives with the highest efficiency and effectiveness.
+* __Executing Strategy__: Executing Strategy: Focus on the most important initiatives because resources are limited and its good stewardship.
+* __Accountability__:	Do what we said we would do, when we said we would do it to meet customer requirements.
+* __Results__:	Consistently deliver value to executives, staff, and stakeholders over time.
+* __Resource Management__:	Manage agency resources to complete our initiatives with the highest efficiency and effectiveness.
 
 This philosophy coalesces with the project principles described below. 
 
