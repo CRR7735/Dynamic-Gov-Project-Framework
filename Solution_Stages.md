@@ -4,14 +4,13 @@ Program Valuation and Commitment
 ## Startup
 Startup and Discovery
 ## Elaboration
-Planning ans Analysis
+Planning and Analysis
 Funding and Authorization
 ## Acquisition
 Solicitation and Acquisition
-## Program Preparation
-Foundation and Change Prep
-Installation
-## Implemenation
+## Implementation
+Organization Preparation
+Process Installation
 Build and Deliver
 ## Close
 Review and Sustain
