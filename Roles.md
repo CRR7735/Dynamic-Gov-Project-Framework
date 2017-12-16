@@ -18,4 +18,4 @@
 * Agency Contract Coordinator
 * Project Contract Manager
 
-Note: One person may serve in several roles at the same time. The is to acknoweledge the role is not active in the project and ensure someone is repsonsible for performing each role. 
+Note: One person may serve in several roles at the same time. The key is to acknowledge the role is not active in the project and ensure someone is responsible for performing each role.
