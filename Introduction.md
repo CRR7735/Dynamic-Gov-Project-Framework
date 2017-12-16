@@ -24,7 +24,7 @@ The philosophy is focused on four critical areas that give the project operation
 This philosophy coalesces with the project principles described below. 
 
 ## Principles
-Thre are six principles for projects to guide you and your team’s behavior:
+Thre are six principles in this framework to guide you and your team’s behavior:
 * Principle 1. __Focus on the Customer and Program__: Business is the focus of every project proposal, analysis, decision, and action. Every project taken should move the program toward achieving its strategic goals and satisfying  customer requirements. That means achieving the program priority, scope, schedule, budget, and quality requirements to deliver value now and in the future.
 
 * Principle 2. __Collaborate for Results__: When a team works in a spirit of collaboration and commitment, they will produce more deliverables with higher quality than groups that do not have a good understanding and shared ownership of the final product. 
