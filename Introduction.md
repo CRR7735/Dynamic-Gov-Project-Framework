@@ -1,4 +1,4 @@
-# Introduction to the Dynamic Project Framework for Government
+# Introduction
 ## Purpose of this framework
 The purpose of this framework is to provide you with a foundation of project best practices that should prepare you to successfully accomplish most efforts you are assigned. The philosophies, principles, and values, contained in this Framework are built upon a proven set of dynamic practices from the Project Management Institute (PMI), Agile, and Organizational Change communities.
 
