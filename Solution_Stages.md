@@ -13,13 +13,12 @@
 
 ## Acquisition
 * Solicitation and Acquisition
-* Installation
+* Product Installation
 
 ## Implementation
 * Build and Deliver
 * Support Installation
 * Organization Transition
-* Product Installation
 
 ## Sustain
 * Close and Sustain
