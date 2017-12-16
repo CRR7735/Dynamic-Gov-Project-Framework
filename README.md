@@ -1,2 +1,2 @@
 # Dynamic-Gov-Project-Framework
-An extendable project management framework that dynamically meets situations and governance.
+An extendable project management framework that dynamically meets project and oversight requirements.
