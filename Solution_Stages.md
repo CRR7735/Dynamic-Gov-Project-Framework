@@ -1,17 +1,17 @@
 # Solution Delivery Phases and Stages
 ## Pre-Project
-### Program Valuation and Commitment
+Program Valuation and Commitment
 ## Startup
-### Startup and Discovery
+Startup and Discovery
 ## Elaboration
-### Planning ans Analysis
-### Funding and Authorization
+Planning ans Analysis
+Funding and Authorization
 ## Acquisition
-### Solicitation and Acquisition
+Solicitation and Acquisition
 ## Program Preparation
-## Foundation and Change Prep
-## Installation
+Foundation and Change Prep
+Installation
 ## Implemenation
-### Build and Deliver
+Build and Deliver
 ## Close
-### Review and Sustain
+Review and Sustain
