@@ -1,6 +1,7 @@
 # Solution Delivery Phases and Stages
 ## Inception
 * Problem Definition
+* Sponsor Connection
 * Program Valuation and Commitment
 
 ## Startup
