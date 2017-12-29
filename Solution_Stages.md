@@ -1,12 +1,12 @@
 # Solution Delivery Phases and Stages
 
 ## 1. Discovery
-* Problem Definition
+* Problem Definition and Discovery
 * Program Valuation and Commitment
 
 ## 2. Startup
-* Startup and Discovery
-* Project Foundation
+* Inception
+* Foundation
 
 ## 3. Elaboration
 * Planning and Analysis
