@@ -1,25 +1,29 @@
 # Solution Delivery Phases and Stages
-## Inception
+
+## 1. Inception
 * Problem Definition
-* Sponsor Connection
 * Program Valuation and Commitment
 
-## Startup
+## 2. Startup
 * Startup and Discovery
 * Project Foundation
 
-## Elaboration
+## 3. Elaboration
 * Planning and Analysis
 * Funding and Authorization
 
-## Acquisition
+## 3. Acquisition
 * Solicitation and Acquisition
-* Service Installation
+* Purchase Installation
 
-## Implementation
+## 4. Change Prep
+* Prepare Organization
+* Install Process Improvements
+
+## 4. Implementation
 * Build and Deliver
 * Support Installation
-* Organization Transition
+* Transition to Agency
 
-## Sustain
+## 5 Sustain
 * Close and Sustain
