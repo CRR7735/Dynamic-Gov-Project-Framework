@@ -5,8 +5,8 @@
 * Program Valuation and Commitment
 
 ## 2. Startup
-* Inception
-* Foundation
+* Inception and Foundation
+* Rough Plan and Budget
 
 ## 3. Elaboration
 * Planning and Analysis
