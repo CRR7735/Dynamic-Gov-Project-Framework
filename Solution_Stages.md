@@ -1,6 +1,6 @@
 # Solution Delivery Phases and Stages
 
-## 1. Inception
+## 1. Discovery
 * Problem Definition
 * Program Valuation and Commitment
 
