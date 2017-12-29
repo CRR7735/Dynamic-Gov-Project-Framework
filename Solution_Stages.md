@@ -25,5 +25,5 @@
 * Support Installation
 * Transition to Agency
 
-## 5 Sustain
+## 5. Sustain
 * Close and Sustain
