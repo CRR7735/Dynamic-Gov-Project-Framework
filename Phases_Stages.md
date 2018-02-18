@@ -24,7 +24,7 @@
 * Install Process Improvements
 
 ## 5. Implementation
-### 5A. Solution Implemenation
+### 5A. Solution Implementation
 * Build, Configure, Test, and Deliver Solution
 * Support Installation
 * Transition to Organization
