@@ -14,24 +14,25 @@
 * Funding and Authorization
 
 ## 4. Installation 
-### 4A. Organizational Installation
-* Prepare Organization
+### 4A. Solution Installation
+* Solution Solicitation and Acquisition
+* Install Purchased Solution
+
+### 4B. Organizational Installation
+* Prepare Organizational Systems
+* Prepare Organizational Support
 * Install Process Improvements
 
-### 4B. Solution Installation
-* Solicitation and Acquisition
-* Purchase Installation
-
 ## 5. Implementation
-### 5A. Organizational Implementation
+### 5A. Solution Implemenation
+* Build, Configure, Test, and Deliver Solution
+* Support Installation
+* Transition to Organization
+
+### 5B. Organizational Implementation
 * Implement Organizational Use
 * Implement Communication
 * Implement Support Agreements
-
-### 5B. Solution Implemenation
-* Build and Deliver
-* Support Installation
-* Transition to Agency
 
 ## 6. Close
 
