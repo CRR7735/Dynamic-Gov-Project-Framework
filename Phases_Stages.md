@@ -1,4 +1,4 @@
-# Solution Delivery Phases and Stages
+# Framework Phases and Stages
 
 ## 1. Discovery
 * Problem Definition and Discovery
