@@ -36,4 +36,3 @@
 ## 6. Close
 
 ## 7. Sustain
-* Close and Sustain
