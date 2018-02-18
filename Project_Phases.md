@@ -1,12 +1,14 @@
 # Project Phases
-## Inception
+## 1. Discovery
 
-## Startup
+## 2. Startup
 
-## Elaboration
+## 3. Elaboration
 
-## Acquisition
+## 4. Installation
 
-## Implementation
+## 5. Implementation
 
-## Sustain
+## 6. Close 
+
+## 7. Sustain
