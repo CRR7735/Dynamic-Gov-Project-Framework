@@ -22,9 +22,10 @@
 * Prepare Organizational Systems
 * Prepare Organizational Support
 * Install Process Improvements
+* Go live readiness assessment
 
 ## 5. Implementation
-### 5A. Solution Implemenation
+### 5A. Solution Implementation
 * Build, Configure, Test, and Deliver Solution
 * Support Installation
 * Transition to Organization
@@ -35,5 +36,10 @@
 * Implement Support Agreements
 
 ## 6. Close
+* Close contracts
+* Close fiscal responsibility
+* Release staff
 
 ## 7. Sustain
+* Validate the solution satisfies needs
+* Fund maintenance and staff needed for support
