@@ -9,10 +9,10 @@ The Framework Philosophy blends agile development philosophies and practices wit
 Using a standard approach to start, plan, communicate and implement initiatives will create an environment where staff at all levels focus on the Agency’s most important initiatives, achieve what they commit to doing, manage agency resources to complete initiatives with minimum confusion, and consistently deliver value to executives, staff, and stakeholders time-after-time. 
 
 To develop and realize a consistent philosophy for completing work, the following mind-set should guide framework users:
-*	Relate projects to the mission and strategic purpose of the agency.
+* Relate projects to the mission and strategic purpose of the agency.
 * Focus on early delivery of usable benefit to the business. 
 * Allow solutions to be developed as a deeper understanding of the solution evolves.
-* Deliver, “fit-for-purpose” solutions with the agreed upon priorities, within the agreed upon timeframes.
+* Deliver, “fit-for-purpose” solutions with the agreed upon priorities, within the agreed upon time-frames.
 * Effectively run projects within their division with a definite framework.
 
 The philosophy is focused on four critical areas that give the project operational value:
@@ -25,7 +25,7 @@ This philosophy coalesces with the project principles described below.
 
 ## Principles
 Thre are six principles in this framework to guide you and your team’s behavior:
-* Principle 1. __Focus on the Customer and Program__: Business is the focus of every project proposal, analysis, decision, and action. Every project taken should move the program toward achieving its strategic goals and satisfying  customer requirements. That means achieving the program priority, scope, schedule, budget, and quality requirements to deliver value now and in the future.
+* Principle 1. __Focus on the Customer and Program__: Business is the focus of every project proposal, analysis, decision, and action. Every project taken should move the program toward achieving its strategic goals and satisfying  customer requirements. That means focusing resources and activities on achieving the program priority, scope, schedule, budget, and quality requirements to deliver value now and in the future.
 
 * Principle 2. __Collaborate for Results__: When a team works in a spirit of collaboration and commitment, they will produce more deliverables with higher quality than groups that do not have a good understanding and shared ownership of the final product. 
 
@@ -35,4 +35,4 @@ Thre are six principles in this framework to guide you and your team’s behavio
 
 * Principle 5. __Communicate Clearly__: Communication is one of the most important aspects of project success or failure. This principle emphasizes the value of human interaction over documentation. The interactions can be carried out in standup sessions, facilitated workshops, clearly defined roles and responsibilities, and personal conversations to resolve conflict. 
 
-* Principle 6. __Demonstrate Control__: Project Managers and Teams should be in control of the project at all times. This requires proactive monitoring and controlling of progress by gathering information, presenting progress reports, actively using change control, and understanding the business case. Essentially, monitoring and controlling the project as outlined in this framework. 
+* Principle 6. __Demonstrate Control__: Project Managers and Teams should be in control of the project at all times. This requires proactive monitoring and controlling of progress by gathering information, presenting progress reports, actively using change control, and understanding the business case. Essentially, monitoring and controlling the project to ensure it is consistent with the project objecives. 

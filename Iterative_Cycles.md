@@ -1,1 +1,11 @@
-Iterative Cycles
+#Iterative Cycles
+## Design
+* Requirements
+* Analyze
+* Design
+* Publish
+## Development
+* Assign
+* Build
+* Test
+* Deploy

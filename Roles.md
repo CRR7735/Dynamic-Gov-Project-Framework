@@ -1,6 +1,6 @@
 # Program Roles
-* Excutive Sponsor
-* Program Sponsor/Product Owner
+* Executive Sponsor
+* Program Sponsor/Project Sponsor/Product Owner
 * Program Lead
 * Subject Matter Experts (SME)
 * Project Manager (PM)
@@ -13,9 +13,9 @@
 * Tester
 * Software Assurance
 
-# Acquisition Roles
+# Acquisition Management Roles
 * Agency Contract Administrator
-* Agency Contract Coordinator
+* Contract Coordinator
 * Project Contract Manager
 
-Note: One person may serve in several roles at the same time. The key is to acknowledge the role is not active in the project and ensure someone is responsible for performing each role.
+Note: One person may serve in several roles at the same time. The key is to acknowledge the role is active in the project and ensure someone is responsible for performing each role.
