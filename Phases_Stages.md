@@ -10,6 +10,11 @@
 * Feasibility (if needed)
 
 ## 3. Elaboration
+### 3A. Solution Design
+* Architectural design and reivew (includes business, infomration systems, and technology architectures)
+* Technology opportunities and transition design
+
+### 3B. Business Planning
 * Planning and Analysis
 * Funding and Authorization
 
@@ -43,3 +48,4 @@
 ## 7. Sustain
 * Validate the solution satisfies needs
 * Fund maintenance and staff needed for support
+* Monitor risk and need for imrpovement
