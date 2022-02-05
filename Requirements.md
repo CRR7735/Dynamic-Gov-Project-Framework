@@ -11,9 +11,10 @@
 * Story Results
 
 ## Quality Requirements
+* User Experience (i.e. response times, colors, usability)
+* Ability to meet requirements
 * Application Security
 * Security Certifications (i.e. HIPPA, CALEA, CJIS, PCI)
-* User Experience (i.e. response times, colors, usability)
 
 ## Technical Requirements
 * Browser
